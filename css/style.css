@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    margin: 0;
+    font-family: 'Merriweather','serif';
+}
+h1{
+   /* width: 10%;
+    margin: 0 auto;*/
+    margin-top: 0;
+    font-family: 'Sacramento',cursive;
+}
+.cloud1{
+    position: relative;
+    margin-left: 35%;
+}
+.cloud2{
+    position: absolute;
+}
+.mountain{
+    /*margin-left: 30%;*/
+}
+.top{
+    margin: 2px;
+    border: 10px;
+    background-color: #E4F9F5;
+    padding: 100px;
+}
